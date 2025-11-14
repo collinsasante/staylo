@@ -15,7 +15,7 @@
     "cloudinary": "^2.8.0",
     "firebase": "^10.14.1",
     "formidable": "^3.5.1",
-    "next": "^16.0.3",
+    "next": "^15.5.2",
     "next-cloudinary": "^6.17.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
